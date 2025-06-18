@@ -1,4 +1,4 @@
-**# pServe
+# pServe (simple http server, with token auth)
 
 **pServe** is a lightweight, token‑protected file‑sharing microservice powered by **aiohttp**.  Drop it into any Linux box (or container) and instantly expose a directory tree for authenticated downloads, complete with JSON usage statistics and rotating log files. 
 Someone else has probably built better but, this is for my own backup purposes..
